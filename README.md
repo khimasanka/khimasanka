@@ -93,6 +93,9 @@
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=khimasanka&repo=My-Portfolio&theme=dark" />
 </a>
 
+<a href="https://github.com/khimasanka/javaFX-simple-application-">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=khimasanka&repo=javaFX-simple-application-&theme=dark" />
+</a>
 
 <br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
