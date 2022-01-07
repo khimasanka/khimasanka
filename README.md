@@ -3,7 +3,7 @@
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
 - 👋🏻 Hi, I’m <a href="https://khimasanka.000webhostapp.com/">Kaveesha Himasanka</a> ✌🏻 <br/>
-- 👀 I’m interested in Machine Learning,cAI, Open Source and Many more 😄<br/>
+- 👀 I’m interested in Machine Learning,AI, Open Source and Many more 😄<br/>
 - 🌱 Trying to learn new technologies and try to keep myself busy 🤵🏻 <br/>
 - 👨🏻‍💻 I am currently completing my Bachelors in Computer Science.  📱</br>
 - 💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
