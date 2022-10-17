@@ -68,12 +68,12 @@
 <!-------------Projects---------------->
 Repository Overview :
 
-<a href="https://github.com/khimasanka/Library-Management-System">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=khimasanka&repo=Library-Management-System&theme=dark" />
+<a href="https://github.com/khimasanka/MusicPlayer">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=khimasanka&repo=MusicPlayer&theme=dark" />
 </a>
 
-<a href="https://github.com/khimasanka/Sipsewana-Project">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=khimasanka&repo=Sipsewana-Project&theme=dark" />
+<a href="https://github.com/khimasanka/Easy-Car-Rent-Service">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=khimasanka&repo=Easy-Car-Rent-Service&theme=dark" />
 </a>
 
 <a href="https://github.com/khimasanka/My-Portfolio">
