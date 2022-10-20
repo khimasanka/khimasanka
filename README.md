@@ -72,16 +72,16 @@ Repository Overview :
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=khimasanka&repo=MusicPlayer&theme=dark" />
 </a>
 
-<a href="https://github.com/khimasanka/Easy-Car-Rent-Service">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=khimasanka&repo=Easy-Car-Rent-Service&theme=dark" />
+<a href="https://github.com/khimasanka/ChatApp">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=khimasanka&repo=ChatApp&theme=dark" />
+</a>
+
+<a href="https://github.com/khimasanka/Car-Remember">
+ <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=khimasanka&repo=Car-Remember&theme=dark" />
 </a>
 
 <a href="https://github.com/khimasanka/My-Portfolio">
  <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=khimasanka&repo=My-Portfolio&theme=dark" />
-</a>
-
-<a href="https://github.com/khimasanka/javaFX-simple-application-">
- <img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=khimasanka&repo=javaFX-simple-application-&theme=dark" />
 </a>
 
 <br>
